@@ -2,9 +2,9 @@
 
 <br/>
 
-<img src=results/res/input.jpg>
+<img src=img/car_vd_result.png>
 
-<img src=results/res/input.jpg>
+<img src=img/people_vd_result.png>
 
 <br/>
 
