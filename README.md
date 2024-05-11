@@ -2,7 +2,9 @@
 
 <br/>
 
+<img src=results/res/input.jpg>
 
+<img src=results/res/input.jpg>
 
 <br/>
 
